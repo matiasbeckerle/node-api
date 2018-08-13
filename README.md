@@ -1,5 +1,7 @@
 # Node API [![Build Status][travis-image]][travis-url]
 
+Basic starter/boilerplate API for Node.
+
 ## Installation
 
 ```bash
